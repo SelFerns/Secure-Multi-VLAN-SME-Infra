@@ -7,6 +7,8 @@ This project demonstrates a small enterprise network design using Cisco devices,
 The network simulates three departments (HR, Sales, IT) with controlled communication and secure access.
 
 ### Topology
+![Topology](NetworkTopology.png)
+
 - Technologies & Concepts
 - Cisco IOS (Router 2911, Switch 2960)
 - VLANs (HR - 10, Sales - 20, IT - 30)
