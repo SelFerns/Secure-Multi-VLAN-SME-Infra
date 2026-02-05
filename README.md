@@ -36,7 +36,7 @@ The network simulates three departments (HR, Sales, IT) with controlled communic
 ### Files in this Repository
 - Secure Multi-VLAN SME Infrastructure.pkt – Packet Tracer simulation file
 - configs/ – Router and switch running configurations
-- topology.png – Network topology diagram
+- NetworkTopology.png – Network topology diagram
 - screenshots/ – Validation screenshots (ping, DHCP, ACL tests)
 
 ### Author
